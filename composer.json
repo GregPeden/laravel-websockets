@@ -7,10 +7,19 @@
         "laravel",
         "php"
     ],
-        "repositories": [
+    "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/GregPeden/Ratchet"
+            "package": {
+                "name": "cboden/ratchet",
+                "version": "master",
+                "source": {
+                    "url":  "https://github.com/GregPeden/Ratchet.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            },
+            "url":  "https://github.com/GregPeden/Ratchet.git"
         }
     ],
     "license": "MIT",
