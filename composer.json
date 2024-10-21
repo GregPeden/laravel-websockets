@@ -10,16 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "package": {
-                "name": "cboden/ratchet",
-                "version": "master",
-                "source": {
-                    "url":  "https://github.com/GregPeden/Ratchet.git",
-                    "type": "git",
-                    "reference": "master"
-                }
-            },
-            "url":  "https://github.com/GregPeden/Ratchet.git"
+            "url":  "https://github.com/GregPeden/Ratchet"
         }
     ],
     "license": "MIT",
