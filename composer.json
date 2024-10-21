@@ -10,7 +10,7 @@
         "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/GregPeden/ratchet"
+            "url":  "https://github.com/GregPeden/Ratchet"
         }
     ],
     "license": "MIT",
